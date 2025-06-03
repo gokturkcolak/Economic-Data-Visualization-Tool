@@ -1,5 +1,4 @@
 This tool is developed for visualizing macroeconomic indicators such as GDP, Gross Fixed Capital Formation etc. over the years.
 
-- How to use it?
-
-  You need to have data as an Excel (.xlsx) file and have a sheet called "Transpose" which consists of the data as; Years in rows, and indicators as columns. After uploading this file, you will be able to choose between indicators which will automatically show the graph of the inditacor.
+Note: You need to have your data formatted just like example below. If you have transposed version of this, don't forget to transpose it before uploading to the tool
+![Ekran görüntüsü 2025-06-03 153648](https://github.com/user-attachments/assets/82d992f5-57f5-4ea2-8ce3-1c435bf44e57)
